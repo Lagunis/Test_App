@@ -3,5 +3,3 @@
 Room at the Top
 
 
-PLATFORMS
-  x86-mingw32
